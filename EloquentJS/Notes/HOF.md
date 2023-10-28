@@ -3,7 +3,7 @@
 >There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.
 
 ## Abstraction
-
+"demoooo"
 Abstractions hide details and give us the ability to talk about problems at a higher (or more abstract) level.
 
 ## Higher Order Functions
